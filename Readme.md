@@ -34,4 +34,4 @@ Watch this [Video](https://www.youtube.com/watch?v=0M8R0IVdLOI&t=239s) about **E
 
 Read this [article](https://calvinfeng.gitbook.io/probabilistic-robotics/basics/nonparametric-filters/02-particle-filter) about **Particle Filter**.
 
-Watch this [Video](https://youtu.be/O-lAJVra1PU](https://youtu.be/O-lAJVra1PU) about **Particle Filter**.
+Watch this [Video](https://youtu.be/O-lAJVra1PU) about **Particle Filter**.
